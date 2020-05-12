@@ -1,3 +1,4 @@
+//Assignment 0_5
 public class multiplicationTable{
 
 	 public static void main(String args[])
